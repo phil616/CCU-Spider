@@ -1,0 +1,10 @@
+{
+  "mysql": {
+    "user": "root",
+    "passwd": "Carvinte616",
+    "hostname": "localhost",
+    "port": "3306",
+    "charset": "utf-8",
+    "database": "spider"
+  }
+}
